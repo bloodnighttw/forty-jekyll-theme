@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: allposts
 title: Blog
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+landing-title: 'Blog'
 nav-menu: true
+description: null
+image: null
+author: bloodnighttw
+show_tile: true
 ---
 
+<h1>All posts</h1>
