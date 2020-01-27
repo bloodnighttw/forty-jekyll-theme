@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 最新文章
+title: Blog
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
