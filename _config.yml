@@ -1,11 +1,11 @@
 # site settings
-title: 血夜
-subtitle: Bloodnighttw
+title: Bloodnighttw
+subtitle: 
 email: bbeenn1227@gmail.com
 description: 一個科技廢宅的家
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: bloodnighttw.github.io# the base hostname & protocol for your site
-author: 
+author: bloodnighttw
 street_address: 
 city: 
 state: 
