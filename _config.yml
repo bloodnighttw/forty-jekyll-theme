@@ -4,7 +4,7 @@ subtitle:
 email: bbeenn1227@gmail.com
 description: 一個科技廢宅的家
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: bloodnighttw.github.io# the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: bloodnighttw
 street_address: 
 city: 
