@@ -24,7 +24,7 @@ nav-menu: true
 			<br>功能包掛:
 			<br>指令系統、setting file 系統、音樂系統（實驗性）
 			<br>目前計畫把它整合至 JDAwP
-			<li><a href="https://github.com/bloodnighttw/JDATool" class="button special">前往Repo</a></li>
+			<a href="https://github.com/bloodnighttw/JDATool" class="button special">前往Repo</a>
 		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
