@@ -20,11 +20,11 @@ nav-menu: true
 <p> 這裡會介紹我各個的Github Repo</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-			<h3><a herf="https://github.com/bloodnighttw/JDATool">JDATool</a></h3>
 		<p>此專案是為了簡化撰寫discord bot時 常用的功能。
 			<br>功能包掛:
 			<br>指令系統、setting file 系統、音樂系統（實驗性）
-			<br>目前計畫把它整合至 JDAwP	
+			<br>目前計畫把它整合至 JDAwP
+			<li><a href="https://github.com/bloodnighttw/JDATool" class="button special">前往Repo</a></li>
 		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
