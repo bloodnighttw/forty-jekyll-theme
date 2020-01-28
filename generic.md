@@ -2,7 +2,7 @@
 layout: post
 title:  Blog
 description: 紀錄生活大小事
-image: null
+image: assets/images/pic07.jpg
 ---
 
 ## 一切正在開始，但今天還蠻順利的 ##    
