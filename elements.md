@@ -32,6 +32,9 @@ nav-menu: true
 		<h3>JDAwP</h3>
 		<p>一個實現以Java Discord Api 為基底的插件伺服系統
 		<br>撰寫中......
+		<br>
+		<br>
+		<br><a href="https://github.com/bloodnighttw/JDAwP" class="button special">Github Repository → </a>
 		</p>
 	</div>
 </div>
