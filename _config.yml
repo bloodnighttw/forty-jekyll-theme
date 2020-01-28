@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 1200
+tiles-count: 6
 
 # social settings
 500px_url:
@@ -24,7 +24,7 @@ github_url: https://github.com/bloodnighttw
 gitlab_url: https://gitlab.com/u/bloodnighttw
 googleplus_url: 
 instagram_url: https://instagram.com/bbeenn1227
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
 twitter_url: 
