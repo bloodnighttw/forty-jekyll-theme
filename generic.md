@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Blog
 description: 紀錄生活大小事
 image: assets/images/pic07.jpg
