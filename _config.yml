@@ -14,12 +14,12 @@ country:
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/profile.php?id=100006470368394
 github_url: https://github.com/bloodnighttw
 gitlab_url: https://gitlab.com/u/bloodnighttw
 googleplus_url: 
