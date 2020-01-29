@@ -20,7 +20,7 @@ show_tile: true
 
 然後我現在才發現，我忘記push 了
 
-[[GitHub Repo](https://github.com/bloodnighttw/JDAwP)][]
+[[GitHub Repo](https://github.com/bloodnighttw/JDAwP)]
 
 - - -
 
