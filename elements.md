@@ -24,7 +24,8 @@ nav-menu: true
 		<p>此專案是為了簡化撰寫discord bot時 常用的功能。
 			<br>功能包掛:
 			<br>指令系統、setting file 系統、音樂系統（實驗性）
-			<br>目前計畫把它整合至 [JDAwP](www.google.com)
+			<br>目前計畫把它整合至 JDAwP
+			[JDAwP](www.google.com)
 			<br>
 			<br><a href="https://github.com/bloodnighttw/JDATool" class="button special">Github Repository → </a>
 		</p>
