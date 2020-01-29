@@ -4,6 +4,7 @@ layout: landing
 description: '一個熱愛科技的瘋狂青年'
 image: assets/images/pic01.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
