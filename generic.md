@@ -17,6 +17,10 @@ nav-menu: true
 
 明天我來寫Server 的主體吧！ 順便先去了解JVM多線程的機制。
 
+然後我現在才發現，我忘記push 了
+
+[[GitHub Repo](https://github.com/bloodnighttw/JDAwP)][]
+
 - - -
 
 ## 一切正在開始，但今天還蠻順利的  
