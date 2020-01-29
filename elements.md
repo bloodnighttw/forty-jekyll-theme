@@ -25,7 +25,6 @@ nav-menu: true
 			<br>功能包掛:
 			<br>指令系統、setting file 系統、音樂系統（實驗性）
 			<br>目前計畫把它整合至 JDAwP
-			[JDAwP](www.google.com)
 			<br>
 			<br><a href="https://github.com/bloodnighttw/JDATool" class="button special">Github Repository → </a>
 		</p>
