@@ -13,7 +13,7 @@ show_tile: true
 我在寫完後 一直如何簡化移植的手續，想著想著，我突然想到之前完全沒碰過的Annotation 所以花了幾天讀了相關資料，並做了練習。
 有空開始開發吧！
  
-[[練習範例連結]{https://repl.it/@bbeenn1227/AnnotationPractice2}]
+[[練習範例連結](https://repl.it/@bbeenn1227/AnnotationPractice2)]
 
 - - -
 
