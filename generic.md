@@ -12,7 +12,7 @@ show_tile: true
 
 最近心血來潮，想到去查一下以沒有 丟程式進去 會自動回傳結果的API ，結果還真的有，所以我就花了幾天研究一下這東西。
 
-這東西叫做 [Judge0](github.com/judge0/api) , [官網](judge0.com)也有提供[不用自己開的api server](api.judge0.com) 可以使用。
+這東西叫做 [Judge0](https://github.com/judge0/api) , [官網](https://judge0.com)也有提供[不用自己開的api server](https://api.judge0.com) 可以使用。
 
 一開始五還在想說到底怎樣使用這API 的說 結果我到最後花了一整天研究，原來要靠http request 來使用 API。
 
