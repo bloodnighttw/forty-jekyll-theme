@@ -5,4 +5,4 @@
 
 
 
-`` 使用 github page 和 tickcounter.com 製作 ``
+<center> 使用 github page 和 tickcounter.com 製作  </center>
