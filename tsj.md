@@ -9,7 +9,7 @@
 <div style="margin:40px">
 
 <center><h1>懶人包 稍後貼出 </h1></center>
-<ceneter> <p> 因為兒少法 我們不能公佈 未成年加害者資訊 TSJ就快成年了 所以我就花了點時間為這垃圾做了這鬼東西<p>
+<ceneter> <p> 因為兒少法 我們不能公佈 未成年加害者資訊 TSJ就快成年了 所以我就花了點時間為這垃圾做了這鬼東西<p> </center>
   
 
 <center> <bold>我就它媽不信你有辦法把這個網頁檢舉掉 </bold> </center>
