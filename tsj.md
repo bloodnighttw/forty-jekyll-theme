@@ -8,11 +8,11 @@
 
 
 <center><h1>懶人包 請看巴哈連結 </h1></center>
-<center><a herf="https://forum.gamer.com.tw/C.php?bsn=60076&snA=5905641">「連結在這」</a></center>
+<center><a href="https://forum.gamer.com.tw/C.php?bsn=60076&snA=5905641">「連結在這」</a></center>
 <center> <p> 因為兒少法 我們不能公佈 未成年加害者資訊 TSJ就快成年了 所以我就花了點時間為這垃圾做了這鬼東西<p> 
   
 
 <center> <bold>我就它媽不信你有辦法把這個網頁檢舉掉 </bold> </center>
-
+<center> 另外徵求強的人幫我修改（計時器用tickcounter.com） 電腦壞掉+高三生超忙 背景色碼晚點公布 </center>
 <center> 使用 github page 和 tickcounter.com 製作  </center>
 
